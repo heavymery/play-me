@@ -1,0 +1,9 @@
+{
+  "name": "play-me",
+  "version": "0.1.0",
+  "dependencies": {
+    "gsap": "~1.15.0",
+    "pixi.js": "~2.2.7"
+  },
+  "devDependencies": {}
+}
